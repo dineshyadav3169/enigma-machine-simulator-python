@@ -18,11 +18,12 @@ When I wrote this, only God and I understood what I was doing. Now, only God kno
 
 ### 🎰 Enigma Machine Simulator by [Dinesh Kumar](https://github.com/dineshyadav3169)
 
-
-<br>
-<img src="images/screenshot.png" alt="screenchot" width="70%" height="70%">
-<img src="images/screenshot2.png" alt="screenchot_2" width="70%" height="70%>
-<br>
+<div align="center">
+  <br>
+  <img src="images/screenshot.png" alt="screenshot" width="70%">
+  <img src="images/screenshot2.png" alt="screenshot2" width="70%">
+  <br>
+</div>
 									   
 ### Features :sparkles:
 
