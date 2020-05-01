@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dineshyadav3169/enigma-machine-simulator-python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+When I wrote this, only God and I understood what I was doing. Now, only God knows.
+```
+<div align="center">
+  <a href="https://github.com/dineshyadav3169/"><img src="https://media1.giphy.com/media/3o7TKTEnDK22YfSWwo/source.gif" width="200"></a>
+  <br>
+  <h1>Enigma Machine Simulator</h1>
+  <sub>Built with ❤︎ by
+  <a href="https://github.com/dineeshyadav3169">Dinesh Kumar</a>
+	</sub>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+[![Build Status](https://travis-ci.org/liyasthomas/books.svg?branch=master)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/)[![repo size](https://img.shields.io/github/repo-size/liyasthomas/books.svg)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/archive/master.zip) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/issues)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dineshyadav3169/enigma-machine-simulator-python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# ⚡ Enigma Simulator
 
-### Support or Contact
+### 🎰 Enigma Machine Simulator by [Dinesh Kumar](https://github.com/dineshyadav3169)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div align="center">
+  <br>
+  <img src="images/screen.png" alt="screenchot" width="100%">
+  <img src="images/screen2.png" alt="screenchot_2" width="100%">
+  <br>
+</div>
+
+### Features :sparkles:
+
+:heart: **Easy and minimal**: Crafted with minimalistic UI design
+
+:electric_plug: **Real-time result**: Type and Run..
+
+:zap: **Change Rotor, Ring, Plugboard and Reflector Settings**: Click on expand button to edit settings!
+
+---
+
+## Built with
+
+* Tkinter
+---
+<h1>Questions ?</h1>
+<br>
+<a href="https://instagram.com/thedineshyadav"><img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" height="50" width="50"></a>
