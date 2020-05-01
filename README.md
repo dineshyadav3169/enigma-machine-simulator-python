@@ -20,11 +20,11 @@ When I wrote this, only God and I understood what I was doing. Now, only God kno
 
 <div align="center">
   <br>
-  <img src="images/screenshot.png" alt="screenchot" width="66%" height="70%">
+  <img src="images/screenshot.png" alt="screenchot" width="70%" height="70%">
   <img src="images/screenshot2.png" alt="screenchot_2" width="70%" height="70%>
   <br>
 </div>
-
+									   
 ### Features :sparkles:
 
 :heart: **Easy and minimal**: Crafted with minimalistic UI design
