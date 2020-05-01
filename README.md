@@ -35,8 +35,9 @@ When I wrote this, only God and I understood what I was doing. Now, only God kno
 
 ---
 
-## Built with
+## Requirements
 
+* [py-enigma](https://bitbucket.org/bgneal/enigma/)
 * Tkinter
 ---
 <h1>Questions ?</h1>
