@@ -1,6 +1,3 @@
-```
-When I wrote this, only God and I understood what I was doing. Now, only God knows.
-```
 <div align="center">
   <a href="https://github.com/dineshyadav3169/"><img src="https://media1.giphy.com/media/3o7TKTEnDK22YfSWwo/source.gif" width="200"></a>
   <br>
