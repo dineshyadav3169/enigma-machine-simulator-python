@@ -9,7 +9,7 @@
 
 ---
 
-[![Build Status](https://travis-ci.org/liyasthomas/books.svg?branch=master)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/) [![repo size](https://img.shields.io/github/repo-size/liyasthomas/books.svg)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/archive/master.zip) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/issues)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Build Status](https://travis-ci.org/liyasthomas/books.svg?branch=master)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/) [![repo size](https://img.shields.io/github/repo-size/liyasthomas/books.svg)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/archive/master.zip) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dineshyadav3169/enigma-machine-simulator-python/issues)
 
 # ⚡ Enigma Simulator
 
