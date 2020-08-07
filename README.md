@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/dineshyadav3169/"><img src="https://media1.giphy.com/media/3o7TKTEnDK22YfSWwo/source.gif" width="200"></a>
   <br>
-  <h1>Enigma Machine Simulator</h1>
+  <h1>Enigma Machine Simulator!</h1>
   <sub>Built with ❤︎ by
   <a href="https://github.com/dineeshyadav3169">Dinesh Kumar</a>
 	</sub>
